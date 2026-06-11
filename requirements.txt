@@ -1,0 +1,5 @@
+# 火山引擎 ARK 图像生成（图生图/文生图）
+volcengine-python-sdk[ark]>=1.0.0
+
+# 腾讯云混元生图（备用）
+tencentcloud-sdk-python>=3.0.0
